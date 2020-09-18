@@ -2,6 +2,12 @@
 React JS module to fetch API and create listing of projects and when click on project open a Bootstrap Model
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Tested under following configurations
+- windows 10
+- Node version: v12.18.3
+- NPM version:  6.14.6
+- React JS: 16.13.1
+
 ## Available Scripts
 
 In the project directory, you can run:
