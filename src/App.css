@@ -1,0 +1,52 @@
+.tableWidth{
+    margin:10px;
+}
+.centerAlign{
+    text-align: center;
+}
+.blurb{
+    text-align: center;
+    border: 1px solid #dee2e6;
+    padding:20px;
+}
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color: #A8B2BD;
+    text-decoration: underline;
+    cursor: pointer;
+}
+button a {
+    color: #FFFFFF;
+}
+button a:hover {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.summary{
+    margin:15px 0px;
+}
+.left{
+    display: block;
+    float:left;
+    width: 45%;
+}
+.right{
+    display: block;
+    float:right;
+    width: 45%;
+    text-align: right;
+}
+.modal-title h4{
+        font-size:16px;
+}
+.modal-title{
+    font-size:16px;
+}
+@media only screen and (min-width: 768px) {
+    .tableWidth{
+        width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+}
